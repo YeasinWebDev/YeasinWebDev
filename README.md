@@ -10,4 +10,9 @@ I'm a self-taught passionate FrontEnd developer from Bangladesh 🇧🇩
 
 - 📚 Currently Exploring Next.js and TypeScript to enhance my development skills.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinWebDev)](https://github.com/anuraghazra/github-readme-stats)
+  
+____________________________________________________________________________________________________
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinWebDev&layout=compact)
+
+_______________________________________________________________________________________________________
