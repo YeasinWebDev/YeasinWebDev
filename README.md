@@ -39,6 +39,6 @@
   <img src="https://github.com/YeasinWebDev/YeasinWebDev/blob/main/image/node.png" />
   <img src="https://github.com/YeasinWebDev/YeasinWebDev/blob/main/image/express.png" />
   <img src="https://github.com/YeasinWebDev/YeasinWebDev/blob/main/image/mongo.png" />
-  <img src="https://github.com/YeasinWebDev/YeasinWebDev/blob/main/image/prisma.png" />
+  <img width={40} height={40} src="https://github.com/YeasinWebDev/YeasinWebDev/blob/main/image/prisma.png" />
 </p>
 
