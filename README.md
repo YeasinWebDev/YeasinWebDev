@@ -13,7 +13,7 @@
   
 ____________________________________________________________________________________________________
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YeasinWebDev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YeasinWebDev)](https://git.io/streak-stats)
 
 _______________________________________________________________________________________________________
 
