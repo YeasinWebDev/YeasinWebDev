@@ -15,7 +15,8 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<img width="60%"  src="https://streak-stats.demolab.com/?user=YeasinWebDev&theme=dark" />
+<img width="60%"  src="[https://streak-stats.demolab.com/?user=YeasinWebDev&theme=dark](https://github-readme-streak-stats-eight.vercel.app?user=YeasinWebDev&theme=dark
+)" />
 
 ## :mailbox: Reach me out
 
