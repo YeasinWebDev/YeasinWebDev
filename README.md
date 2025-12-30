@@ -15,7 +15,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yeasin%20Arafat&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=YeasinWebDev&theme=dark" alt="GitHub Streak" /></a>
 [![yeaisn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeasinWebDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
