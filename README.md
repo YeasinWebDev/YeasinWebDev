@@ -15,7 +15,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YeasinWebDev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YeasinWebDev&theme=dark)](https://git.io/streak-stats)
 
 ## :mailbox: Reach me out
 
