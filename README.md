@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/yeasinarafat01/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/yeasinarafat.arafat.9026/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://x.com/Dev_Yeasin8)
 
-<br />
+
 _______________________________________________________________________________________________________
 
 <h2>💻 Technologies that I know </h2>
