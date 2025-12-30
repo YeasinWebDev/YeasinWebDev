@@ -15,7 +15,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YeasinWebDev&theme=dark)](https://git.io/streak-stats)
+<img width="60%"  src="https://streak-stats.demolab.com/?user=YeasinWebDev&theme=dark" />
 
 ## :mailbox: Reach me out
 
