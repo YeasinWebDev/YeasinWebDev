@@ -11,7 +11,6 @@
 - 📚 Currently Exploring Prisma to enhance my development skills.
 
   
-____________________________________________________________________________________________________
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -19,7 +18,6 @@ ________________________________________________________________________________
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YeasinWebDev&theme=dark" alt="GitHub Streak" /></a>
 [![yeaisn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeasinWebDev)](https://github.com/anuraghazra/github-readme-stats)
 
-_______________________________________________________________________________________________________
 
 ## :mailbox: Reach me out
 
@@ -27,8 +25,6 @@ ________________________________________________________________________________
 
 [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/yeasinarafat01/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/yeasinarafat.arafat.9026/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://x.com/Dev_Yeasin8)
 
-
-_______________________________________________________________________________________________________
 
 <h2>💻 Technologies that I know </h2>
 
